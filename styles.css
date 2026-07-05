@@ -1,0 +1,9 @@
+/* Minimal styles for the sample portfolio */
+html,body{height:100%;}
+body{font-family:Segoe UI,Arial,Helvetica,sans-serif;margin:0;background:#f5f7fb;color:#0b1220;padding:28px}
+header{margin-bottom:24px}
+h1{font-size:28px;margin:0}
+.tagline{color:#475569}
+main{max-width:900px}
+section{background:#fff;border-radius:10px;padding:18px;margin-bottom:16px;box-shadow:0 6px 18px rgba(16,24,40,0.06)}
+footer{margin-top:18px;color:#64748b}

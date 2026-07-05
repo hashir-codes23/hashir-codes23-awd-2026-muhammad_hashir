@@ -28,7 +28,7 @@ This is a simple personal portfolio sample for Muhammad Hashir.
 1. First commit was made using the command line (CLI).
 2. A small additional change is prepared to be committed using GitHub Desktop (separate commit).
 
-## How to push to GitHub (create remote)
+## How I push to GitHub (create remote)
 
 1. Create a new empty repository on GitHub named `awd-2026-muhammad_hashir`.
 2. Then run:
